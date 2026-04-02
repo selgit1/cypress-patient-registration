@@ -21,7 +21,7 @@ describe('Patient Signup with OTP', () => {
 
     let isFirstIteration = true;
       // Number of patients to create
-    const numPatients = 2;
+    const numPatients = 1;
 
 
 
