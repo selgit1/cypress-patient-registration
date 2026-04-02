@@ -23,4 +23,4 @@ jobs:
         run: npm ci
 
       - name: Run Cypress test
-        run: npx cypress run --spec "cypress/e2e/Pro-Pat_Reg-QA1.cy.js"
+        run: npx cypress run --spec "cypress/e2e/Pro-Pat.reg.cy.js"
